@@ -1,0 +1,5 @@
+package com.microservice.departmentService.dto;
+
+public class DepartmentDto {
+
+}

@@ -1,0 +1,5 @@
+package com.microservice.departmentService.entity;
+
+public class Department {
+
+}

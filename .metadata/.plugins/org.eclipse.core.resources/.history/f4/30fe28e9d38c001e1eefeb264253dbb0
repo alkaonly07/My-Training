@@ -1,0 +1,5 @@
+package com.microservice.departmentService.controller;
+
+public class DepartmentController {
+
+}

@@ -1,0 +1,5 @@
+package com.microservice.departmentService.service;
+
+public interface DepartmentService {
+
+}

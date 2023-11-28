@@ -1,0 +1,14 @@
+
+g	java:S125<"<This block of commented-out lines of code should be removed.(²‚ÎHœRMAJORZ
+CODE_SMELL
+|
+java:S3655/"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¥ä¢Ÿ8û×é÷À1HRMAJORZBUG
+|
+java:S3655Q"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¥ä¢Ÿ8û×é÷À1HRMAJORZBUG
+c
+java:S1172M"0Remove this unused method parameter "exception".(±„È¥8û×é÷À1HŸRMAJORZ
+CODE_SMELL
+‘	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãò™Áşÿÿÿÿ8û×é÷À1H¡RMINORZ
+CODE_SMELL
+l	java:S1252"<This block of commented-out lines of code should be removed.(Ñ¢¬¹üÿÿÿÿH¢RMAJORZ
+CODE_SMELL
