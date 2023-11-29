@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Capgemini Training\Backend Training\rabbitmq"/>
+			<item value="C:\Capgemini Training\Backend Training\Kafka demo"/>
 			<item value="C:\Users\akum1505\Downloads\springboot-microservices-main\springboot-microservices-main\v3\springboot-microservices\config-server"/>
 			<item value="C:\Capgemini Training\Backend Training\config-server"/>
 			<item value="C:\Users\akum1505\Downloads\springboot-microservices-main\springboot-microservices-main\v3\springboot-microservices\api-gateway"/>

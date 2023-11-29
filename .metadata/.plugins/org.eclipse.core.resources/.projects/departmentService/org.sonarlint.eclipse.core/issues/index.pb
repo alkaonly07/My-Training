@@ -19,3 +19,5 @@ Y
 )src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
 ‚
 Rsrc/main/java/com/microservice/departmentService/DepartmentServiceApplication.java,f\c\fcae81457b87176d4c50cdb9f0ebf9a17f24ede1
+‚
+Rsrc/main/java/com/microservice/departmentService/controller/MessageController.java,3\1\31ab665255d8b583d99cf90dd510e826e22c5cb6
